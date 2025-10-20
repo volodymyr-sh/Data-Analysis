@@ -33,7 +33,7 @@ The stakeholders want to understand how total revenue across all products change
 The dataset includes the following information: user ID, order ID, purchase timestamp, shipping timestamp, product name, product ID, USD price, purchase platform, marketing channel, account creation method, country code, and area code.  
 The main metrics are USD price, total revenue, number of orders. The key dimensions are time, region, marketing channel, and product. 
 
-The dataset can be found here - GameZone Sales Analysis for 2019-2023
+The dataset can be found here - [GameZone Sales Analysis for 2019-2023](https://docs.google.com/spreadsheets/d/177ajCBqHcgs3DnsMzTgmoadxJP-N7MaefZFOtvr4SzI/edit?gid=0#gid=0).  
 Some comments on the sheets in the Google Spreadsheet: 
 * *orders* and *regions* - original tables,
 * *orders_cleaned* - the table after data cleaning and with additional columns to support the initial EDA; new or transformed data are marked with maroon column names,
@@ -67,7 +67,7 @@ Overall sales trends:
 * The all-time highs were recorded in **September** and **December 2021**. 
 * A clear seasonal trend is observed, with dips in January (ranging from **-15%** to **-67%** compared to the monthly average) and February (from **-21%** to **-50%**), and spikes in September (**+ 20%** to **+35%**), and December (**+34%** to **+62%**)
 
-*Fig. 1 Overal Sales for the Period of 2019-2023.*
+*Fig. 1 Overall Monthly Sales for the Period of 2019-2023.*
 
 ## Product Trends
 
