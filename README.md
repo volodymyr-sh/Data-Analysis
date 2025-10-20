@@ -1,4 +1,4 @@
-# Volodymy Shpak - Data Analyst Portfolio
+# Volodymyr Shpak - Data Analyst Portfolio
 ## About
 ## Projects
 ## Certificates
