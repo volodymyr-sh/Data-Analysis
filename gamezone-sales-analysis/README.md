@@ -71,7 +71,7 @@ Overall sales trends:
 
 *Fig. 1 Overall Monthly Sales for the Period of 2019-2023.*
 
-![Fig. 1 Overall Monthly Sales for the Period of 2019-2023.](https://github.com/user-attachments/assets/1f6136f8-f57f-45eb-997b-7b03f1bc9ad6" )
+![Fig. 1 Overall Monthly Sales for the Period of 2019-2023.](https://github.com/user-attachments/assets/1f6136f8-f57f-45eb-997b-7b03f1bc9ad6)
 
 ## Product Trends
 
