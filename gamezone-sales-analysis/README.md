@@ -211,5 +211,7 @@ Account for seasonal revenue variance, with expected declines in Q1 and spikes i
 As a final step, I created a Tableau dashboard which provides a helicopter view at the main KPIs - Sales, Orders, Customers with YoY performance. It visualises monthly trends for easier pattern recognition and breakdowns by products, regions, marketing channels, and purchase platforms.
 A clear comparison between current and previous year allows users to quickly identify positive and negative trends.
 
+*Fig. 9 Interactive Dashboard.*
 
+![Fig. 9 Interactive Dashboard](https://github.com/user-attachments/assets/59553655-4205-4935-8c94-a1618c819740)
 
