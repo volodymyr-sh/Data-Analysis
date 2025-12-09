@@ -206,3 +206,10 @@ Adjust the financial forecast for 2023 taking into account the decline in sales 
 
 Account for seasonal revenue variance, with expected declines in Q1 and spikes in Q4.
 
+## Interactive Performance Dashboard
+
+As a final step, I created a Tableau dashboard which provides a helicopter view at the main KPIs - Sales, Orders, Customers with YoY performance. It visualises monthly trends for easier pattern recognition and breakdowns by products, regions, marketing channels, and purchase platforms.
+A clear comparison between current and previous year allows users to quickly identify positive and negative trends.
+
+
+
