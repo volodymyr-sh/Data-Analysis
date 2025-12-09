@@ -9,4 +9,4 @@
 <img width="1632" height="866" alt="fig2-sales-product" src="https://github.com/user-attachments/assets/dd2c1ccb-5b5e-4958-9194-e85ffcd69a88" />
 <img width="1619" height="857" alt="fig1-overall-monthly-sales-2019-2023" src="https://github.com/user-attachments/assets/1f6136f8-f57f-45eb-997b-7b03f1bc9ad6" />
 <img width="743" height="761" alt="fig0-initial-eda" src="https://github.com/user-attachments/assets/98d9aac5-cc3a-4fe4-9366-fbee280d8a31" />
-
+<img width="896" height="623" alt="fig9_interactive_dashboard" src="https://github.com/user-attachments/assets/59553655-4205-4935-8c94-a1618c819740" />
