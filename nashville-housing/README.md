@@ -19,7 +19,7 @@ FROM nashville_housing_data_for_data_cleaning;
 ```
 
 As a next step, the column names were standardized to snake_case to ensure consistency and improve readability across the dataset.
-[Converting column names to snake_case](/nashville_housing_cleaning.sql#L6-L46)
+[Converting column names to snake_case](nashville-housing/nashville_housing_cleaning.sql#L6-L46)
 
 ## Transformation
 
