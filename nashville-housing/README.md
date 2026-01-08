@@ -10,6 +10,15 @@ The objective of this project was to clean the dataset and prepare it for reliab
 * [Conclusion and Recommendations](#conclusion-and-recommendations)
 
 ## Spotting the Issues
+To preserve the original data a separate copy of the dataset was created:
+
+```sql
+SELECT *
+INTO nashville_dataset
+FROM nashville_housing_data_for_data_cleaning;
+
+As a next step, the column names were standardized to snake_case to ensure consistency and improve readability across the dataset.
+[Converting column names to snake_case](nashville-housing/nashville_housing_cleaning.sql#L6-L46)
 
 ## Transformation
 
