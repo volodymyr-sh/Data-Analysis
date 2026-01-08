@@ -5,9 +5,9 @@ The objective of this project was to clean the dataset and prepare it for reliab
 
 ## Table of Contents
 
-[Spotting the Issues](#spotting-the-issues)
-[Transformation](#transformation)
-[Conclusion and Recommendations](#conclusion-and-recommendations)
+* [Spotting the Issues](#spotting-the-issues)
+* [Transformation](#transformation)
+* [Conclusion and Recommendations](#conclusion-and-recommendations)
 
 ## Spotting the Issues
 
