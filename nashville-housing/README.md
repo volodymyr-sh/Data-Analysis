@@ -25,7 +25,7 @@ SELECT column_name, data_type
 FROM information_schema.columns
 WHERE table_schema = 'nashville' AND table_name = 'nashville_dataset';
 ```
-![Data Types Check](nashville-housing/assets/screenshot_1_1_data_types.png)
+![Data Types Check](assets/screenshot_1_1_data_types.png)
 
 ## Transformation
 
